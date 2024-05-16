@@ -9,6 +9,7 @@ function sAddress(){
     }
     else {
         home.disabled = false
+        home.value = ""
     }
 }
 
